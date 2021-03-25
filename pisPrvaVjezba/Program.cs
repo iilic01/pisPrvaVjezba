@@ -8,6 +8,7 @@ namespace pisPrvaVjezba
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
+            Console.WriteLine("IvonaI"); #komentar
         }
     }
 }
